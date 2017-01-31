@@ -1,0 +1,106 @@
+\documentclass[13pt]{extarticle}
+
+% language 
+\usepackage[T5]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[vietnam,english]{babel}
+
+
+\usepackage{indentfirst} % indent the first paragraph in section
+
+\usepackage{float} % force picture to place [H] HERE
+
+% allow enumitem with bracket
+\usepackage{enumitem}% http://ctan.org/pkg/enumitem 
+
+% make paragraph as subsubsubsection
+\usepackage{titlesec}
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+{\normalfont\normalsize\itshape}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{10pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\usepackage{graphicx} %load package for graphic
+
+\usepackage{url} % allow url in bibtex
+
+\usepackage{subcaption} % two figure side by side
+
+\usepackage{pdfpages} % add the cover
+
+% roman for section
+\renewcommand\thesection{\Roman{section}}
+
+% pdf metadata
+\usepackage[pdftex,
+pdfauthor={HahaTTpro},
+pdftitle={Lieat},
+pdfkeywords={Lieat},hidelinks]{hyperref}
+
+
+
+% remove space between bulletpoint
+\usepackage{enumitem}
+\setlist{nolistsep,leftmargin=*}
+
+\title{\Huge \textbf{Lieat} \\ Và cái gì nữa ở đây nè }
+% Author
+\author{\textsc{Tác giả Miwashiba} \\ Dịch sang tiếng Việt bởi HahaTTpro \\ Dịch từ bản tiếng Anh của Vgperson \thanks{\url{http://vgperson.tumblr.com/post/130927788020/lieat-the-novel-prologues-part-i}}}
+% \date{Feb 31, 1990}
+
+\begin{document}
+	
+	% tạo tiêu đề
+	\maketitle
+	
+	% bỏ khoảng trống còn lại của trang
+	\pagebreak
+		
+	% mục lục (table of content - toc)
+	\tableofcontents
+	
+	\pagebreak
+	
+	\section{The Lie-Eating Dragon and the Lie-Breathing Man}
+	
+	Chú mèo con lông trắng tinh 
+	mắt tròn xoe và trông rất xinh meo meo.
+	A con mèo nó rất ngoan 
+	bắt chuột đôi chân nhanh thoăn thoắt.
+	A con mèo nó rất ngoan 
+	suốt ngày em đùa chơi với mèo mèo.
+	
+	Bốn bàn chân bé tí ti 
+	vểnh một tai như đang lắng nghe meo meo.
+	A con mèo nó rất khôn 
+	nó vểnh râu ngồi nghe em hát.
+	A con mèo nó rất ngoan 
+	suốt ngày chơi xung quanh cái vòng tròn. \cite{meowone}
+	
+
+	
+	\section{Prologue}
+		Bốn bàn chân bé tí ti 
+	vểnh một tai như đang lắng nghe meo meo.
+	A con mèo nó rất khôn 
+	nó vểnh râu ngồi nghe em hát.
+	A con mèo nó rất ngoan 
+	suốt ngày chơi xung quanh cái vòng tròn. 
+	
+	\section{The Lie-Eating Dragon and the Forgotten-Color Songstress}
+	
+	\subsection*{Day 1}
+	\addcontentsline{toc}{subsection}{Day 1} % add unnumber subsection to toc
+	Ngày 1 
+	
+	\subsection*{Day 2}
+	\addcontentsline{toc}{subsection}{Day 2} % add unnumber subsection to toc
+	Ngày 2 
+	
+	\section{Efina’s Investigation}
+	
+	\section{Certain Dragons’ Memorandums}
+	
+	
+\end{document}
