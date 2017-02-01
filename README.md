@@ -4,7 +4,7 @@ Bản mới nhất [(PDF)] (CurrentRelease/Lieat_viet.pdf)
 
 Tiến độ <br>
 - [X] I. Con rồng ăn "nối dối" và kẻ lừa đảo
-- [ ] II. Prologue
+- [X] II. Lời nói đầu
 - [ ] III. The Lie-Eating Dragon and the Forgotten-Color Songstress
     - [ ] Day 1
     - [ ] Day 2
