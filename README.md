@@ -10,7 +10,7 @@ Tiến độ <br>
 - [ ] III. The Lie-Eating Dragon and the Forgotten-Color Songstress
     - [X] Ngày 1
     - [X] Ngày 2
-    - [ ] Day 3
+    - [X] Ngày 3
     - [ ] Day 4
     - [ ] Day 5
     - [ ] Day 6
