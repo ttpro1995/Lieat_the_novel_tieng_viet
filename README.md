@@ -11,7 +11,7 @@ Tiến độ <br>
     - [X] Ngày 1
     - [X] Ngày 2
     - [X] Ngày 3
-    - [ ] Day 4
+    - [X] Ngày 4
     - [ ] Day 5
     - [ ] Day 6
     - [ ] Day 7
