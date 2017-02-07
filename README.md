@@ -12,7 +12,7 @@ Tiến độ <br>
     - [X] Ngày 2
     - [X] Ngày 3
     - [X] Ngày 4
-    - [ ] Day 5
+    - [X] Ngày 5
     - [ ] Day 6
     - [ ] Day 7
 - [ ] Efina’s Investigation
